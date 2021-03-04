@@ -1,0 +1,3 @@
+/home/annome/CLionProjects/Lab3/Root/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/annome/CLionProjects/Lab3/Root/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/annome/CLionProjects/Lab3/Root/cmake-build-debug/CMakeFiles/right3_1.dir

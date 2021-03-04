@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/right3_1.dir/main.c.o  -o right3_1  -lm 
