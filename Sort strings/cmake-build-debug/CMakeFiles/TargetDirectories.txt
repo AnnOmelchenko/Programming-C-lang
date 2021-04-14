@@ -1,0 +1,3 @@
+/home/annome/Desktop/1 course/Programming/КП/КП5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/annome/Desktop/1 course/Programming/КП/КП5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/annome/Desktop/1 course/Programming/КП/КП5/cmake-build-debug/CMakeFiles/5.dir
